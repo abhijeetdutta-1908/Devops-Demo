@@ -17,12 +17,13 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
+      <h1>Devops CI/CD</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          This application is a demonstration of a CI/CD pipeline using Vite and React.
         </p>
       </div>
       <p className="read-the-docs">
